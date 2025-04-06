@@ -1,4 +1,4 @@
-package org.orlov.tom.configuration;
+package org.orlov.tom.notesservice.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

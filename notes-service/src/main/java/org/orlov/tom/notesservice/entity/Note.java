@@ -1,4 +1,4 @@
-package org.orlov.tom.entity;
+package org.orlov.tom.notesservice.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

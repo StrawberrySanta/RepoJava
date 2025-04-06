@@ -1,7 +1,7 @@
-package org.orlov.tom.controller;
+package org.orlov.tom.notesservice.controller;
 
-import org.orlov.tom.entity.Person;
-import org.orlov.tom.repository.UserRepository;
+import org.orlov.tom.notesservice.entity.Person;
+import org.orlov.tom.notesservice.repository.UserRepository;
 import org.springframework.context.annotation.Profile;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
